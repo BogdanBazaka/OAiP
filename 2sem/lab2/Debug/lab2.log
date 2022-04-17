@@ -1,0 +1,9 @@
+﻿  lab2.cpp
+D:\Work\2 sem\lab2\lab2.cpp(34,35): warning C4101: GradesInformatics: неиспользованная локальная переменная
+D:\Work\2 sem\lab2\lab2.cpp(34,9): warning C4101: GradesPhysic: неиспользованная локальная переменная
+D:\Work\2 sem\lab2\lab2.cpp(34,69): warning C4101: GroupNumber: неиспользованная локальная переменная
+D:\Work\2 sem\lab2\lab2.cpp(34,54): warning C4101: AverangeScore: неиспользованная локальная переменная
+D:\Work\2 sem\lab2\lab2.cpp(34,23): warning C4101: GradesMath: неиспользованная локальная переменная
+D:\Work\2 sem\lab2\lab2.cpp(33,10): warning C4101: Surname: неиспользованная локальная переменная
+D:\Work\2 sem\lab2\lab2.cpp(143,9): warning C4101: p: неиспользованная локальная переменная
+  lab2.vcxproj -> D:\Work\2 sem\lab2\Debug\lab2.exe
