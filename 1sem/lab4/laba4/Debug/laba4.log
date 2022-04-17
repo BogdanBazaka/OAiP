@@ -1,0 +1,4 @@
+﻿  laba4.cpp
+D:\Work\lab4\laba4\laba4.cpp(27,9): warning C4101: k: неиспользованная локальная переменная
+D:\Work\lab4\laba4\laba4.cpp(28,45): warning C4101: q: неиспользованная локальная переменная
+  laba4.vcxproj -> D:\Work\lab4\laba4\Debug\laba4.exe

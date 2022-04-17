@@ -1,0 +1,4 @@
+﻿  laba6.cpp
+D:\Work\lab6\laba6\laba6.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Work\lab6\laba6\laba6.cpp(12,19): warning C4101: b: неиспользованная локальная переменная
+  laba6.vcxproj -> D:\Work\lab6\laba6\Debug\laba6.exe

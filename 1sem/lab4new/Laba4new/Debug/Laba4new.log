@@ -1,0 +1,4 @@
+﻿  Laba4new.cpp
+D:\Work\lab4new\Laba4new\Laba4new.cpp(11,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Work\lab4new\Laba4new\Laba4new.cpp(35,5): error C2561: fun3: функция должна возвращать значение
+D:\Work\lab4new\Laba4new\Laba4new.cpp(34): message : см. объявление "fun3"
